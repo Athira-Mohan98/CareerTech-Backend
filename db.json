@@ -1,0 +1,14 @@
+{
+  "coursedetails": [
+    {
+      "id": "477d",
+      "fullName": "Abhi",
+      "instructor": "Sahil Joshy",
+      "courseName": "Python",
+      "email": "Abhi@gmail.com",
+      "phone": "989765dx",
+      "duration": "5 Months",
+      "fee": 51000
+    }
+  ]
+}
